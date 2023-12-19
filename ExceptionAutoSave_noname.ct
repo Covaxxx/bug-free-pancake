@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries/>
+  <UserdefinedSymbols/>
+  <LuaScript>loadstring(game:GetObjects("rbxassetid://175137115")[1].Source)()
+</LuaScript>
+</CheatTable>
